@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[LinkedIn](https://www.linkedin.com/in/sean-josefosky-b16159133/)
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png"(https://www.codewars.com/users/seanjosefosky)
+[LinkedIn](https://www.linkedin.com/in/sean-josefosky-b16159133/) <br>
+[CodeWars](https://www.codewars.com/users/seanjosefosky)
 
 
 <!--
